@@ -1,0 +1,7 @@
+Title: Yaml Configuration
+Logging:
+  IncludeScopes: false
+  LogLevel:
+    Default: "Debug"
+    System: "Information"
+    Microsoft: "Information"
